@@ -1,4 +1,4 @@
-# Indexing
+  # Indexing
 
 You work for a tourism agency, and your job is to promote amusement parks.  You have been given a list of amusement
 parks and you need to write code to help organize the data.
